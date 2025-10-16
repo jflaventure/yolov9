@@ -1,7 +1,6 @@
 import argparse
 import math
 import os
-os.environ["WANDB_DISABLED"] = "true"
 import random
 import sys
 import time
